@@ -4,7 +4,10 @@
     "keywords": ["scaling", "layer2", "infrastructure"],
     "timestamp": "2021-12-01T11:53:45.032+00:00",
     "tokens": [ 
-      {"chainId":56,"address":"0x000000000000000000000000000000000000dEaD","name":"MEGA-X","symbol":"MEGAX","decimals":18,"logoURI":"https://raw.githubusercontent.com/megaxtoken/token-list/main/images/megax.png"}
+        {"chainId":56,"address":"0x000000000000000000000000000000000000dEaD","name":"MEGA-X","symbol":"MEGAX","decimals":18,"logoURI":"https://raw.githubusercontent.com/megaxtoken/token-list/main/images/megax.png"},
+        {"chainId":56,"address":"0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c","name":"Wrapped BNB","symbol":"WBNB","decimals":18,"logoURI":"https://raw.githubusercontent.com/megaxtoken/token-list/main/images/bnb.png"},
+        {"chainId":56,"address":"0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56","name":"Binance USD","symbol":"BUSD","decimals":18,"logoURI":"https://raw.githubusercontent.com/megaxtoken/token-list/main/images/busd.png"},
+        {"chainId":56,"address":"0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82","name":"Pancakeswap Token","symbol":"CAKE","decimals":18,"logoURI":"https://raw.githubusercontent.com/megaxtoken/token-list/main/images/cake.png"}
       ],
     "version": {
       "major": 1,
