@@ -14,14 +14,6 @@
         "symbol": "WXZO",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/topdefi/token-list/main/images/xzo.png"
-      },
-      {
-        "chainId": 2370,
-        "address": "0xC1128CB655cB12A67228505a86c6C867033215fF",
-        "name": "Wrapped EXZO",
-        "symbol": "WXZO",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/topdefi/token-list/main/images/xzo.png"
       }
     ],
     "version": {
