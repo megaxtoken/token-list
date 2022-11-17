@@ -1,0 +1,32 @@
+{
+    "name": "ArchieSwap",
+    "logoURI": "https://raw.githubusercontent.com/topdefi/token-list/main/images/archie.png",
+    "keywords": [
+      "archie",
+      "defi"
+    ],
+    "timestamp": "2021-05-27T20:37:00.000+00:00",
+    "tokens": [
+      {
+        "chainId": 1243,
+        "address": "0xC1128CB655cB12A67228505a86c6C867033215fF",
+        "name": "Wrapped ARC",
+        "symbol": "WARC",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/topdefi/token-list/main/images/archie.png"
+      },
+      {
+        "chainId": 1244,
+        "address": "0xC1128CB655cB12A67228505a86c6C867033215fF",
+        "name": "Wrapped ARC",
+        "symbol": "WARC",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/topdefi/token-list/main/images/archie.png"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
