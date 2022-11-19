@@ -9,7 +9,7 @@
     "tokens": [
       {
         "chainId": 1243,
-        "address": "0xC1128CB655cB12A67228505a86c6C867033215fF",
+        "address": "0x6dE594f9ab88B02bc890e0C4eB0B2b936E3Cf2E4",
         "name": "Wrapped ARC",
         "symbol": "WARC",
         "decimals": 18,
@@ -17,7 +17,7 @@
       },
       {
         "chainId": 1244,
-        "address": "0xC1128CB655cB12A67228505a86c6C867033215fF",
+        "address": "0x6dE594f9ab88B02bc890e0C4eB0B2b936E3Cf2E4",
         "name": "Wrapped ARC",
         "symbol": "WARC",
         "decimals": 18,
