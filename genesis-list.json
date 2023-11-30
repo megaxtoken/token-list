@@ -1,0 +1,24 @@
+{
+    "name": "GenesisSwap",
+    "logoURI": "https://raw.githubusercontent.com/topdefi/token-list/main/images/agora.png",
+    "keywords": [
+      "genesis",
+      "defi"
+    ],
+    "timestamp": "2023-11-29T20:37:00.000+00:00",
+    "tokens": [
+      {
+        "chainId": 1442,
+        "address": "0x827bfaB5265a9D1F5f8edb7F6c00382849d68721",
+        "name": "Wrapped AGORA",
+        "symbol": "WAGORA",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/topdefi/token-list/main/images/agora.png"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
