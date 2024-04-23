@@ -22,3 +22,11 @@
       "patch": 0
     }
   }
+
+        "chainId": 56,
+        "address": "0x6cd871fb811224aa23B6bF1646177CdFe5106416",
+        "name": "Global Trust Coin",
+        "symbol": "GTC",
+        "decimals": 4,
+        "logoURI": "https://github.com/GTIBCOIN/Logo-GTC-GTCFR/blob/master/gtclogowhitebackground.png"
+
