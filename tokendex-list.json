@@ -22,12 +22,6 @@
         "symbol": "GTC",
         "decimals": 4,
         "logoURI": "https://github.com/GTIBCOIN/Logo-GTC-GTCFR/blob/master/gtclogowhitebackground.png"
-      }
-    ],
-    "version": {
-      "major": 1,
-      "minor": 0,
-      "patch": 0
     }
   }
         "chainId": 56,
