@@ -30,6 +30,14 @@
         "symbol": "QEX",
         "decimals": 18,
         "logoURI": "https://github.com/quantumxchange/logo/commit/f6837d607f9ec48c6d93d943c1aebf9b04d8b96f"
+     },
+      {
+        "chainId": 56,
+        "address": "0x912EF48F4da0C68D6c7C6D0b35d4e62E71771F33",
+        "name": "Banque Universal",
+        "symbol": "QEX",
+        "decimals": 4,
+        "logoURI": "https://github.com/BANQUEUNIVERSAL/logo/blob/master/BULOGO.svg"
       }
     ],
     "version": {
