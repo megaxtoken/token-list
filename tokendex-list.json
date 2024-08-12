@@ -39,7 +39,15 @@
          "decimals": 18,
          "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
      },
-      {
+      {  
+      "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+      "chainId": 56,
+      "name": "XRP Token",
+      "symbol": "XRP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/complusnetwork/default-token-list/master/src/bsc/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE/logo.png"
+    },
+    {
         "chainId": 56,
         "address": "0x912EF48F4da0C68D6c7C6D0b35d4e62E71771F33",
         "name": "Banque Universal",
