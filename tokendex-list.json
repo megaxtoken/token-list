@@ -32,6 +32,14 @@
         "logoURI": "https://github.com/quantumxchange/logo/commit/f6837d607f9ec48c6d93d943c1aebf9b04d8b96f"
      },
       {
+         "name": "PancakeSwap Token",
+         "symbol": "CAKE",
+         "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+         "chainId": 56,
+         "decimals": 18,
+         "logoURI": "https://tokens.pancakeswap.finance/images/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+     },
+      {
         "chainId": 56,
         "address": "0x912EF48F4da0C68D6c7C6D0b35d4e62E71771F33",
         "name": "Banque Universal",
